@@ -14,9 +14,9 @@ Before running the script, make sure to configure the following variables in the
 - `EndopintPass`: Password for web service authentication.
 - `SqlDestinationString`: Connection string to the SQL Server database.
 - `TargetTable`: Name of the table in the database where the data will be loaded.
-- `Entity`: Specific data entity to request from the web service.
-- `ExecutionDate`: Execution date for delta data (if applicable).
-- `ModeDelta`: Boolean indicating whether to run in delta mode.
+- `Entity`: Http header example.
+- `ExecutionDate`: Http header example.
+- `ModeDelta`: Http header example.
 
 ## Usage
 1. Configure the project and user variables according to your environment and specific data needs.
