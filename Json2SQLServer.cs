@@ -8,7 +8,7 @@ using System.Net;
 using System.Data.SqlClient;
 #endregion
 
-namespace SAP2RRHH
+namespace PROJECT
 {
 
 	[Microsoft.SqlServer.Dts.Tasks.ScriptTask.SSISScriptTaskEntryPointAttribute]
